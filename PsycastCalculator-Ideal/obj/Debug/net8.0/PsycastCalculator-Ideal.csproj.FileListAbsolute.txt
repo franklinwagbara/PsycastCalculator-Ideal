@@ -1,0 +1,14 @@
+C:\Users\Franklin Wagbara\Documents\Turing\Production\batch2\Task2\PsycastCalculator-Ideal\PsycastCalculator-Ideal\bin\Debug\net8.0\PsycastCalculator-Ideal.exe
+C:\Users\Franklin Wagbara\Documents\Turing\Production\batch2\Task2\PsycastCalculator-Ideal\PsycastCalculator-Ideal\bin\Debug\net8.0\PsycastCalculator-Ideal.deps.json
+C:\Users\Franklin Wagbara\Documents\Turing\Production\batch2\Task2\PsycastCalculator-Ideal\PsycastCalculator-Ideal\bin\Debug\net8.0\PsycastCalculator-Ideal.runtimeconfig.json
+C:\Users\Franklin Wagbara\Documents\Turing\Production\batch2\Task2\PsycastCalculator-Ideal\PsycastCalculator-Ideal\bin\Debug\net8.0\PsycastCalculator-Ideal.dll
+C:\Users\Franklin Wagbara\Documents\Turing\Production\batch2\Task2\PsycastCalculator-Ideal\PsycastCalculator-Ideal\bin\Debug\net8.0\PsycastCalculator-Ideal.pdb
+C:\Users\Franklin Wagbara\Documents\Turing\Production\batch2\Task2\PsycastCalculator-Ideal\PsycastCalculator-Ideal\obj\Debug\net8.0\PsycastCalculator-Ideal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franklin Wagbara\Documents\Turing\Production\batch2\Task2\PsycastCalculator-Ideal\PsycastCalculator-Ideal\obj\Debug\net8.0\PsycastCalculator-Ideal.AssemblyInfoInputs.cache
+C:\Users\Franklin Wagbara\Documents\Turing\Production\batch2\Task2\PsycastCalculator-Ideal\PsycastCalculator-Ideal\obj\Debug\net8.0\PsycastCalculator-Ideal.AssemblyInfo.cs
+C:\Users\Franklin Wagbara\Documents\Turing\Production\batch2\Task2\PsycastCalculator-Ideal\PsycastCalculator-Ideal\obj\Debug\net8.0\PsycastCalculator-Ideal.csproj.CoreCompileInputs.cache
+C:\Users\Franklin Wagbara\Documents\Turing\Production\batch2\Task2\PsycastCalculator-Ideal\PsycastCalculator-Ideal\obj\Debug\net8.0\PsycastCalculator-Ideal.dll
+C:\Users\Franklin Wagbara\Documents\Turing\Production\batch2\Task2\PsycastCalculator-Ideal\PsycastCalculator-Ideal\obj\Debug\net8.0\refint\PsycastCalculator-Ideal.dll
+C:\Users\Franklin Wagbara\Documents\Turing\Production\batch2\Task2\PsycastCalculator-Ideal\PsycastCalculator-Ideal\obj\Debug\net8.0\PsycastCalculator-Ideal.pdb
+C:\Users\Franklin Wagbara\Documents\Turing\Production\batch2\Task2\PsycastCalculator-Ideal\PsycastCalculator-Ideal\obj\Debug\net8.0\PsycastCalculator-Ideal.genruntimeconfig.cache
+C:\Users\Franklin Wagbara\Documents\Turing\Production\batch2\Task2\PsycastCalculator-Ideal\PsycastCalculator-Ideal\obj\Debug\net8.0\ref\PsycastCalculator-Ideal.dll
