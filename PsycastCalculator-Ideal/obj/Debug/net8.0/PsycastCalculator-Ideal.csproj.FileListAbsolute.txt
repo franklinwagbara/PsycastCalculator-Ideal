@@ -12,3 +12,4 @@ C:\Users\Franklin Wagbara\Documents\Turing\Production\batch2\Task2\PsycastCalcul
 C:\Users\Franklin Wagbara\Documents\Turing\Production\batch2\Task2\PsycastCalculator-Ideal\PsycastCalculator-Ideal\obj\Debug\net8.0\PsycastCalculator-Ideal.pdb
 C:\Users\Franklin Wagbara\Documents\Turing\Production\batch2\Task2\PsycastCalculator-Ideal\PsycastCalculator-Ideal\obj\Debug\net8.0\PsycastCalculator-Ideal.genruntimeconfig.cache
 C:\Users\Franklin Wagbara\Documents\Turing\Production\batch2\Task2\PsycastCalculator-Ideal\PsycastCalculator-Ideal\obj\Debug\net8.0\ref\PsycastCalculator-Ideal.dll
+C:\Users\Franklin Wagbara\Documents\Turing\Production\batch2\Task2\PsycastCalculator-Ideal\PsycastCalculator-Ideal\obj\Debug\net8.0\PsycastCalculator-Ideal.sourcelink.json

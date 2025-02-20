@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PsycastCalculator-Ideal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93123353af79163e60f24065813569895e72d2eb")]
 [assembly: System.Reflection.AssemblyProductAttribute("PsycastCalculator-Ideal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PsycastCalculator-Ideal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
